@@ -1,4 +1,4 @@
-SECRET_INIT = ('mike', 'some-password', 'some-secret-key')
+SECRET_INIT = ('dmendek', '<w}I*N.aR[.YjojIsc$N73XSZ58&)zCa', 'SBsBj,>n/5g]b634BBK+&.R!Jg%81s{(')
 """tuple containing username, password and secret session key"""
 
 
@@ -11,31 +11,30 @@ class Language:
 
 # TODO move into a db table
 class MY:
-    NAME = 'YOUR NAME'
-    EMAIL = 'your.mail@yourmail.com'
+    NAME = 'David Mendek'
+    EMAIL = 'contact@david.mendek.com'
     TITLES = (
-        ('Your Studies', 'http://google.com'),
-        ('Job Title #1', 'http://yahoo.com'),
-        ('Job Title #2', None),
+        ('Fachinformatiker Anwendungsentwicklung', '#'), # wud? URL?
+        ('Automation Engineer', 'https://www.avira.com')
     )
     DESCRIPTION = (
         'This is my personal online CV, designed with '
         'Python HTML, CSS and JavaScript.')
     PHONE = '+12 345 6789 1011'
     ADDRESS = [
-        'Street 123',
-        'Additional',
-        'ZIP City',
-        'Country',
+        'Pfitznerstr. 1',
+        '80807 Munich',
+        'Germany',
     ]
     SKILLS = [
-        'Skill #1',
-        'Skill #2',
-        'Skill #3',
-        'Skill #4'
+        'C#',
+        'AutoIt',
+        'PHP',
+        'hopefully Python soon'
     ]
     LANGUAGES = [
-        Language('German', 'germany', 100),
-        Language('English', 'gb', 89),
-        Language('Chinese', 'china', 34),
+        Language('German', 'germany', 101),
+        Language('English', 'us', 80),
+        Language('Italian', 'it', 20),
+        Language('Spanish', 'es', 15)
     ]
