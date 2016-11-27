@@ -14,8 +14,7 @@ class MY:
     NAME = 'David Mendek'
     EMAIL = 'contact@david.mendek.com'
     TITLES = (
-        ('Fachinformatiker Anwendungsentwicklung', '#'), # wud? URL?
-        ('Automation Engineer', 'https://www.avira.com')
+        ('w00t', '#'),
     )
     DESCRIPTION = (
         'This is my personal online CV, designed with '
