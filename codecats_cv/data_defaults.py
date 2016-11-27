@@ -14,22 +14,19 @@ class MY:
     NAME = 'David Mendek'
     EMAIL = 'contact@david.mendek.com'
     TITLES = (
-        ('w00t', '#'),
+        ('', ''),
     )
     DESCRIPTION = (
-        'This is my personal online CV, designed with '
-        'Python HTML, CSS and JavaScript.')
-    PHONE = '+12 345 6789 1011'
+        'Hello.')
+    PHONE = ''
     ADDRESS = [
-        'Pfitznerstr. 1',
-        '80807 Munich',
-        'Germany',
+        '',
     ]
     SKILLS = [
         'C#',
-        'AutoIt',
         'PHP',
-        'hopefully Python soon'
+        'AutoIt',
+        'Python'
     ]
     LANGUAGES = [
         Language('German', 'germany', 101),

@@ -1,52 +1,52 @@
 {
   "experiences": {
-    "1": {
-      "when": "2015 - 2016",
+    "4": {
+      "duration": "2015 - 2016",
       "referenceMail": "",
       "flag": "germany",
       "title": "Automation Engineer",
       "location": "Tettnang, Germany",
       "referenceName": "Ronny Schmidt",
-      "what": "",
+      "what": "Avira Operations GmbH",
       "img": "avira_logo.png",
       "category": "work",
       "description": "My main focus were regression testing of new builds and acceptance tests of release candidates for the Avira Antivirus suite for Windows.",
       "url": "http://codecats.io"
     },
-    "2": {
-      "when": "2016 - Present",
+    "3": {
+      "duration": "2016 - Present",
       "referenceMail": "",
       "flag": "germany",
       "title": "Automation Engineer",
       "location": "Tettnang, Germany",
       "referenceName": "Kai Schimpf",
-      "what": "",
+      "what": "Avira Operations GmbH",
       "img": "avira_logo.png",
       "category": "work",
       "description": "To improve the connection between testers and developers, I was one of three Automation Engineers that moved directly into the Windows Development department to drive the automation testing and maintenance in a team of 7 people. I also migrated our performance testing suite and, since then, maintain it.",
       "url": "http://codecats.io"
     },
-    "3": {
-      "when": "2012 - 2013",
+    "2": {
+      "duration": "2012 - 2013",
       "referenceMail": "referenceMail",
       "flag": "germany",
       "title": "Apprentice",
       "location": "Ravensburg, Germany",
       "referenceName": "",
-      "what": "IT specialist of systems integration",
+      "what": "Ravitec Systempartner GmbH",
       "img": "ravitec_logo.png",
       "category": "education",
       "description": "At Ravitec, I was part of a small team of 5 persons. I was mainly busy with maintenance - keeping customers' software up to date, installing new hardware and supporting customers. Also, I could get some additional experience with the administration of Windows Servers.",
       "url": "http://www.ravitec.de"
     },
-    "4": {
-      "when": "2013 - 2015",
+    "1": {
+      "duration": "2013 - 2015",
       "referenceMail": "referenceMail",
       "flag": "germany",
       "title": "Apprentice",
       "location": "Tettnang, Germany",
       "referenceName": "Ronny Schmidt",
-      "what": "IT specialist of software development",
+      "what": "Avira Operations GmbH",
       "img": "avira_logo.png",
       "category": "education",
       "description": "At Avira, I had the opportunity to change my profession from systems integration to software development. I went through several departments, e.g. development, continuous integration & QA, accounting and controlling. I had several projects, e.g. a web-frontend for the analysis of automated performance tests. I spent the last year completely in the Continuous Integration department, my aim was to fully focus on automated software testing, which should later become my job.",

@@ -15,20 +15,21 @@
                 </div>
             {% endfor %}
         </div>
+
         <div class="description">{{ MY.DESCRIPTION }}</div>
     </div>
+    {% if MY.EMAIL is defined %}
     <div class="extra content">
         <p class="right floated created">E-Mail</p>
         <a href="mailto:{{ MY.EMAIL }}">{{ MY.EMAIL }}</a>
     </div>
+    {% endif %}
+
+    {% if MY.PHONE %}
     <div class="extra content">
         <p class="right floated created">Mobile</p>
         <p class="friend">{{ MY.PHONE }}</p>
     </div>
-    <div class="extra content">
-        <p class="right floated created">Address</p>
-        {% for line in MY.ADDRESS %}
-            <div>{{ line }}</div>
-        {% endfor %}
-    </div>
+    {% endif %}
+
 </div>
