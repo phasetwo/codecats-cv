@@ -8,4 +8,4 @@ __pycache__/
 
 site/
 codecats_cv/secrets.py
-.idea
+.idea/
